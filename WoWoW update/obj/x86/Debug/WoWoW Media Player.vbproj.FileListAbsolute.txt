@@ -1,0 +1,19 @@
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\UserControl1.baml
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\UserControl1.g.vb
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\TechViewHD_Advanced_Media_Player.AboutForm.resources
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\TechViewHD_Advanced_Media_Player.Form1.resources
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\TechViewHD_Advanced_Media_Player.Resources.resources
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\WoWoW Media Player.vbproj.GenerateResource.Cache
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\bin\Debug\WoWoW Media player.exe.config
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\bin\Debug\WoWoW Media player.exe
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\bin\Debug\WoWoW Media player.pdb
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\bin\Debug\WoWoW Media player.xml
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\WoWoW Media player_Content.g.vb
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\WoWoW Media player_MarkupCompile.cache
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\WoWoW Media player.g.resources
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\WoWoW Media player.exe
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\WoWoW Media player.xml
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\WoWoW Media player.pdb
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\WoWoW_Media_Player.AboutForm.resources
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\WoWoW_Media_Player.Form1.resources
+C:\Users\Debojyoti Singha\Documents\Visual Studio 2012\Projects\WoWoW update\obj\x86\Debug\WoWoW_Media_Player.Resources.resources
